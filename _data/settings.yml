@@ -12,7 +12,7 @@ custom_links_new_tab:
 client:
   name: Paul Kelton
   title: 
-  license_number: Real Estate Salesperson Agent at Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
+  license_number: Real Estate Salesperson Agent at<br>Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
   about_markdown: |
 
   brand: Matt ONeill Real Estate
@@ -24,7 +24,7 @@ client:
   phone2:
   phone2_type:
   email: paul@tidepm.com
-  url: mattoneillrealestate.com/agents/paul-kelton
+  url: https://mattoneillrealestate.com/agents/paul-kelton
 
 forms:
   sitekey:
