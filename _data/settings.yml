@@ -41,8 +41,8 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What is your Charleston property worth"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+    CTA_title: "What is your Charleston property worth?"
+    CTA_text: "Are you thinking of selling or interested in learning about prices in your neighborhood? We can help."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
