@@ -37,15 +37,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- market -- Home Worth?"
+    CTA_title: "What’s Your Charleston Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- market -- Home?"
-    CTA_text2: "Search the entire MLS for your -- market -- home."
+    CTA_title2: "Looking for a Charleston Home?"
+    CTA_text2: "Search the entire MLS for your Charleston home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: /homesearch/
 
