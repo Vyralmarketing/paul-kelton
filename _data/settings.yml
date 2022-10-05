@@ -1,5 +1,5 @@
-title: -- market -- Real Estate Video Blog with -- client name --
-description: Our mission at -- client brand -- is to be your best resource for -- market -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- client brand --, your professional -- market -- Real Estate Agents.
+title: Charleston Real Estate Video Blog with Paul Kelton
+description: Our mission is to be your best resource for Charleston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, your professional Charleston Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -10,21 +10,21 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
-  title:
+  name: Paul Kelton
+  title: Real Estate Salesperson Agent at Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
   license_number:
   about_markdown: |
 
-  brand:
+  brand: Matt ONeill Real Estate
   brokerage:
-  market:
-  address:
-  phone:
+  market: Charleston
+  address: 1349 Old Georgetown Rd Mt Pleasant, SC 29464
+  phone: 843-460-3173
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: paul@tidepm.com
+  url: https://www.mattoneillrealestate.com/agents/paul-kelton
 
 forms:
   sitekey:
@@ -89,7 +89,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- market -- Real Estate Video Blog
+  hero_text: Charleston Real Estate Video Blog
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
