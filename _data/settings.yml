@@ -14,7 +14,11 @@ client:
   title: 
   license_number: Real Estate Salesperson Agent<br>at Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
   about_markdown: |
+    Paul joined Matt O’Neill Real Estate in 2020 and specializes in investment sales in addition to sales in vacant land and multifamily sectors. He is currently pursuing his CCIM Designation.
 
+    His primary focus entails multifamily sales and investment products, working side-by-side with owners, tenants, and buyers alike. He has also spearheaded numerous retail and land transactions. Paul’s commitment to providing his clients with the best possible results is directly related to his extensive and up-to-date market knowledge. Among other things, Paul’s ability to work consistently and diligently makes him an invaluable asset to the MORE Commercial team.
+
+    Familiar with the history and charm of the Lowcountry, Paul spent a great amount of his childhood beachside at his family’s residence on Sullivan’s Island. He now lives on Daniel Island with his wife and two dogs.
   brand: Matt ONeill Real Estate
   brokerage:
   market: Charleston
@@ -30,22 +34,22 @@ forms:
   sitekey:
 
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Property Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Customized Market Search
   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Charleston Home Worth?"
+    CTA_title: "What is your Charleston property worth"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Charleston Home?"
-    CTA_text2: "Search the entire MLS for your Charleston home."
+    CTA_title2: "Looking for a property in Charleston?"
+    CTA_text2: "Search the entire MLS"
     CTA_link_text2: "Customized Market Search"
     CTA_url2: /homesearch/
 
@@ -89,7 +93,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: Real Estate Video Blog with Paul Kelton
+  hero_text: 
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
