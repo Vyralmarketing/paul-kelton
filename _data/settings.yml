@@ -11,20 +11,20 @@ custom_links_new_tab:
 
 client:
   name: Paul Kelton
-  title: Real Estate Salesperson Agent at Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
-  license_number:
+  title: 
+  license_number: Real Estate Salesperson Agent at Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
   about_markdown: |
 
   brand: Matt ONeill Real Estate
   brokerage:
   market: Charleston
-  address: 1349 Old Georgetown Rd Mt Pleasant, SC 29464
+  address: 1349 Old Georgetown Rd<br>Mt Pleasant, SC 29464
   phone: 843-460-3173
   phone_type:
   phone2:
   phone2_type:
   email: paul@tidepm.com
-  url: https://www.mattoneillrealestate.com/agents/paul-kelton
+  url: mattoneillrealestate.com/agents/paul-kelton
 
 forms:
   sitekey:
