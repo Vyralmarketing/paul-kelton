@@ -12,7 +12,7 @@ custom_links_new_tab:
 client:
   name: Paul Kelton
   title: 
-  license_number: Real Estate Salesperson Agent<br>at Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co, LLC
+  license_number: Agent with Matt ONeill Real Estate<br>Co-Founder of Tide Property Management Co
   about_markdown: |
     Paul joined Matt O’Neill Real Estate in 2020 and specializes in investment sales in addition to sales in vacant land and multifamily sectors. He is currently pursuing his CCIM Designation.
 
@@ -27,8 +27,8 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: paul@tidepm.com
-  url: https://mattoneillrealestate.com/agents/paul-kelton
+  email: paul@paulchs.com
+  url: https://paulchs.com
 
 forms:
   sitekey:
@@ -92,7 +92,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 30
+  logo_width_number: 50
   hero_text: 
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
