@@ -34,7 +34,7 @@ forms:
   sitekey:
 
 CTAs:
-  first_CTA_text: Property Valuation
+  first_CTA_text: Free Property Value
   first_CTA_URL: /homevalue/
   second_CTA_text: Customized Market Search
   second_CTA_URL: /homesearch/
@@ -43,7 +43,7 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What is your Charleston property worth?"
     CTA_text: "Are you thinking of selling or interested in learning about prices in your neighborhood? We can help."
-    CTA_link_text: "Free Home Value Report"
+    CTA_link_text: "Free Property Value"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
