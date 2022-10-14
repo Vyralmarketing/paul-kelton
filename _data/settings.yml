@@ -1,13 +1,13 @@
 title: Charleston Real Estate Video Blog with Paul Kelton
 description: Our mission is to be your best resource for Charleston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, your professional Charleston Real Estate Agents.
-show_custom_links: true
+show_custom_links: false
 custom_links:
+  - title: 
+    url: 
+show_custom_links_new_tab: true
+custom_links_new_tab:
   - title: Rental Map Guide
     url: https://rental-guide-kelton.paperform.co/
-show_custom_links_new_tab: false
-custom_links_new_tab:
-  - title:
-    url:
 
 client:
   name: Paul Kelton
