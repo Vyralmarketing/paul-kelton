@@ -8,7 +8,8 @@ show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: Rental Map Guide
     url: https://rental-guide-kelton.paperform.co/
-
+  - title: Current Listings 
+    url: https://marvelous-painter-6098.ck.page/73b459191f
 client:
   name: Paul Kelton
   title: 
