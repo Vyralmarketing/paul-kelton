@@ -31,7 +31,7 @@ client:
   phone2:
   phone2_type:
   email: paul@paulchs.com
-  url: https://paulchs.com
+  url: 
 
 forms:
   sitekey:
@@ -71,11 +71,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/people/Paul-Kelton/100064128661030/
+  linkedin_url: https://www.linkedin.com/in/pkelton-05/
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/pk_chs
+  instagram_url: https://www.instagram.com/paul_charleston/?hl=en
   pinterest_url:
   zillow_url:
   trulia_url:
