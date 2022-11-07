@@ -11,7 +11,7 @@ pullquote: Talk to me for all your commercial real estate needs.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/opportunities.jpg
+youtube_alternate_image: /uploads/opportunities2.jpg
 youtube_code: AaTeHt0n9TM
 ---
 {% include youtube.html %}
