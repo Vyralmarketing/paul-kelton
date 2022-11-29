@@ -26,8 +26,6 @@ Where should you invest in Charleston? The short answer is it depends on your si
 
 **{% include pullquote.html %}**
 
-&nbsp;
-
 **3\. Summerville.** This area has experienced explosive growth over the past five years. It used to be a sleepy community where people from Charleston would go during the summertime. However, now it's completely different. They are building mega-developments that are some of the best in the country. Also, this area has a lot of manufacturing plants and a logistics industry. They have plenty of land to build on and have been of high interest to a lot of developers over the past couple of years.
 
 All of these towns have the potential for high growth in the future. If you'd like to discuss more on the specific areas and the best places to invest, please give me a call or send an email. I’m happy to connect with you\!
