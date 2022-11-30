@@ -22,7 +22,7 @@ Where should you invest in Charleston? The short answer is it depends on your si
 
 **1\. Moncks Corner.** It’s a sleepy town right now, but the land is cheap, and development costs are low. It's a great place to look at if you're looking to do a subdivision, a small multifamily, or if you’re searching for an industrial property with a growing population. It’s also very affordable—the average price point is around $360,000, which is within the range of most people who are looking to invest and live in the property.
 
-**2\. Goose Creek.** I met the mayor of Goose Creek last year, and he told me they needed more industry and business in the area. They want to revamp the downtown area and transform it into a completely different town in the next five years. It's slightly out of the central location of Charleston, but it is very well connected with Red Bank Road and Highway 78, and relatively close to I-26.
+**2\. Goose Creek.** I met the mayor of Goose Creek last year, and he told me they needed more industry and business in the area. They want to revamp the downtown area and transform it into a completely different town in the next five years. It's slightly out of the central location of Charleston, but it is very well connected with Red Bank Road and Highway 78 and relatively close to I-26.
 
 **{% include pullquote.html %}**
 
