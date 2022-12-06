@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/invest.jpg
-youtube_code: dCdKpaDZFkE
+youtube_code: 3GmMrAJO_uo
 ---
 {% include youtube.html %}
 
