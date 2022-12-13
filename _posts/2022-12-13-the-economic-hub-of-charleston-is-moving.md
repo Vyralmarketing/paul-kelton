@@ -9,7 +9,7 @@ tags:
   - Commercial Real Estate
 excerpt: Downtown Charleston is not going to be the economic hub anymore.
 enclosure:
-pullquote: 'The center of Charleston is moving to 526 and I-26. '
+pullquote: The center of Charleston is moving to 526 and I-26.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
