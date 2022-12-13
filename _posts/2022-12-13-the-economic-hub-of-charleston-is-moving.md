@@ -26,8 +26,6 @@ Roper St. Francis has announced that they are investing $1 billion into a new ho
 
 **{% include pullquote.html %}**
 
-&nbsp;
-
 So what does this mean for you, and how can you take advantage of this? **Property values have not yet caught up to the investments that are happening here**, so there are quite a few good deals on the market. There's a lot of property that is undervalued for the potential that it has in the future. This area will become a center for jobs and economic stability, and these could be the lowest prices that we’ll ever see in this area. Take advantage of this opportunity now and ride this wave.
 
 If you want to get in on this new opportunity, reach out to me by phone or email. I’d love to discuss this opportunity with you.
