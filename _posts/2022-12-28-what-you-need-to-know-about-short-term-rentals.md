@@ -26,8 +26,6 @@ Have you considered investing in a short-term rental property? It is a fantastic
 
 **{% include pullquote.html %}**
 
-&nbsp;
-
 **2\. Building requirements.** To have a short-term rental, the building must be shaped a certain way, have a fire system, have the right parking spaces, and so on. The city puts limits on what you can do with your building, but many people think it’s worth it.&nbsp;
 
 **3\. Consider a plan b.** If short-term rentals seem like too much hassle, you can always consider a month-to-month rental instead. These have many of the same benefits as short-term rentals but sidestep a lot of their pitfalls.&nbsp;
