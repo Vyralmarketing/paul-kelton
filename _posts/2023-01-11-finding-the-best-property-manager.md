@@ -20,11 +20,9 @@ youtube_code: nkx4NVf_ncg
 ---
 {% include youtube.html %}
 
-*Three questions that will help you find the right property manager.*
+{% include excerpt.html %}
 
 If you want to invest in real estate or already have, you should know that one thing can make or break your experience and the resale value of that property. The biggest decision you make after you close is deciding on the right property manager. I’ve seen this affect many sellers in our area, so I’m here to equip you with three things you should be looking for when you choose a property manager:&nbsp;
-
-{% include excerpt.html %}
 
 **1\. Do they lease the property at market rate?** A good property manager will, and they understand that there’s a balance between vacancy and pushing rent prices too far. If you go to resell the property, the first thing that many agents will look at is the rent price you are currently receiving, so make sure it’s close to market value.&nbsp;
 
