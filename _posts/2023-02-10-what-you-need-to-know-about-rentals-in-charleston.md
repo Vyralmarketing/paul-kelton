@@ -23,7 +23,7 @@ youtube_code: sSaa9G9kBms
 
 {% include excerpt.html %}
 
-Charleston has been the No. 1 tourist destination in the world for the past ten years, and its popularity only continues to grow. With such high demand, short-term rentals have become an increasingly popular option for visitors and investors alike. However, the rules and regulations surrounding short-term rentals in Charleston are not as straightforward as one may hope. Today I’m diving into the two main reasons why short-term rentals in Charleston can be so complicated:
+Charleston has been the No. 1 tourist destination in the world for the past 10 years, and its popularity only continues to grow. With such high demand, short-term rentals have become an increasingly popular option for visitors and investors alike. However, the rules and regulations surrounding short-term rentals in Charleston are not as straightforward as one may hope. Today I’m diving into the two main reasons why short-term rentals in Charleston can be so complicated:
 
 **1\. High tourist demand.** Charleston's status as the world's top tourist destination has led to an immense interest in short-term rentals. With so many visitors flocking to the city each year, the demand for short-term rental properties is at an all-time high. Plus, this high demand means that there are more regulations and restrictions in place to manage it.
 
