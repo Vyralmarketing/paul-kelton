@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hidden Home Inventory You Won’t See Online
+title: Hidden Inventory You Won’t See Online
 date: 2023-02-27 00:00:00
 tags:
   - VIP
