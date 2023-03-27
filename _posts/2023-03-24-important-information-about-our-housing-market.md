@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Important Information About Our Housing Market
+title: Important Information About Our Market
 date: 2023-03-24 00:00:00
 tags:
 excerpt: Sales are up and inventory is down for properties in Charleston.
