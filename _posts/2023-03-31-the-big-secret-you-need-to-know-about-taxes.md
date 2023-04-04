@@ -27,6 +27,6 @@ Clients ask me this question all the time: “Don't you think taxes are a little
 
 {% include pullquote.html %}
 
-**Why doesn't everybody know about this?** It's a little-known fact in the tax code, and it requires you to go in person to file it. If you're not working with somebody local, who's commercial-oriented, and who knows the ins and outs of this, it's tough to find out about these exemptions.
+**Why doesn't everybody know about this?** It's a little-known fact in the tax code, and it requires you to go in-person to file it. If you're not working with somebody local, who's commercial-oriented, and who knows the ins and outs of this, it's tough to find out about these exemptions.
 
 Not all agents are created equal. That's why you must work with somebody who's commercial-oriented here in Charleston. That’s why you should choose me. Remember, if you have any questions about this exemption or real estate in general, please feel free to reach out to me by phone or email. I would be happy to be your resource for all of your real estate needs.
