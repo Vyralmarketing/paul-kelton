@@ -18,7 +18,7 @@ youtube_code: MVQdZj16IuY
 
 Are you planning on selling your commercial real estate property? If so, there are three main documents you need, and I’ll go over each of them briefly today:
 
-**1\. Rent roll.** This includes the current rents you have, the expiration dates, and the bed and bathroom counts for each unit.&nbsp;
+**1\. Rent roll.** This includes the current rental units you have, the expiration dates, and the bed and bathroom counts for each unit.&nbsp;
 
 **2\. List of improvements.** You need to state any upgrades you’ve made because they greatly impact the value of your property.&nbsp;
 
