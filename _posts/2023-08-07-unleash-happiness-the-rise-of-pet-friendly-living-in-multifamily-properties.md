@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unleash Happiness: The Rise of Pet-Friendly Living in Multifamily Properties'
+title: 'Pawsitive Returns: Boosting Profits With Pet-Friendly Living'
 date: 2023-08-07 00:00:00
 tags:
   - Pet-friendly amenities
