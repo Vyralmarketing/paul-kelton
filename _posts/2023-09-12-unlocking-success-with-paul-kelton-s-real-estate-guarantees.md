@@ -21,7 +21,7 @@ youtube_code: 9vn8FdGdsjI
 
 {% include excerpt.html %}
 
-I'm Paul Kelton, your trusted multi-family real estate broker here in Charleston, South Carolina. Over the past three years, I've dedicated myself to crafting a marketing system that stands out in our beautiful city. Today, I'm excited to share with you four of our guarantees that set us apart from those you choose to work with.
+I'm Paul Kelton, your trusted multi-family real estate broker here in Charleston, South Carolina. Over the past three years, my team and I have dedicated ourselves to crafting a marketing system that stands out in our beautiful city. Today, we're excited to share with you four of our guarantees that set us apart from those you choose to work with.
 
 **Guarantee \#1: Best Aspect Marketing**
 
@@ -41,4 +41,4 @@ We believe in making a stellar first impression. Rest assured, your property wil
 
 We've heard your concerns about brokers going radio silent. With us, you're guaranteed regular updates about market trends, buyer interest, comparable sales, and our expert recommendations. Our clients are our most valuable relationships and it is incredibly important to us that you are well-informed throughout your real estate journey.
 
-Your satisfaction and peace of mind are my top priorities. These are just four of our seven guarantees that come standard with all of our listings. We don't just make promises. We stand by them, ensuring that you get the best service possible. If you're curious about our other guarantees or have questions, please don't hesitate to call or email. Together, let's make your property the talk of Charleston.
+Your satisfaction and peace of mind are our top priorities. These are just four of our seven guarantees that come standard with all of our listings. We don't just make promises. We stand by them, ensuring that you get the best service possible. If you're curious about our other guarantees or have questions, please don't hesitate to call or email. Together, let's make your property the talk of Charleston.
