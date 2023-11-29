@@ -19,9 +19,9 @@ youtube_code: pXTJ2yjpqcA
 
 {% include excerpt.html %}
 
-What’s our secret sauce to selling your property? Today I’ll share what makes our team efficient in serving our clients' needs.
+What’s our secret sauce to selling your property? Today, I’ll share what makes our team efficient in serving our clients' needs.
 
-**Here at Paul Kelton Charleston Investor Pro, our approach to selling your property is highly proactive.** When a prospect expresses interest, we swiftly engage with them, and upon any inquiry about your property, our team diligently pursues the prospect, aiming for an in-person or Zoom meeting.
+**Here at Paul Kelton Charleston Investor Pro, our approach to selling your property is highly proactive.** When a prospect expresses interest, we swiftly engage with them. Upon any inquiry about your property, our team diligently pursues the prospect, aiming for an in-person or Zoom meeting.
 
 {% include pullquote.html %}
 
