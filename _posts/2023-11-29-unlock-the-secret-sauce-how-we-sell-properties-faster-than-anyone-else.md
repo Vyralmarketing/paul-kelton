@@ -27,6 +27,6 @@ What’s our secret sauce to selling your property? Today I’ll share what make
 
 As soon as someone clicks on our listing, we receive a notification and initiate contact within the first five minutes. This rapid response sets us apart, considering most agents take an average of 18 hours to follow up. We employ persistent calling, texting, and emailing within the initial 48 hours, making around 24 attempts to engage with the prospect. Our goal is to arrange a meeting, allowing us to thoroughly showcase the opportunities your property offers.
 
-Our commitment extends beyond just the initial interaction; we proactively follow up and aim to guide the interested buyers towards drafting offers on your property. **Our dedication to this process is reflected in our guarantees**, such as the 90-day guarantee, assuring an offer within that timeframe, and the qualified buyer guarantee, ensuring that the buyers we bring to you are motivated and ready to proceed.
+Our commitment extends beyond just the initial interaction; we proactively follow up and aim to guide the interested buyers toward drafting offers on your property. **Our dedication to this process is reflected in our guarantees**, such as the 90-day guarantee, assuring an offer within that timeframe, and the qualified buyer guarantee, ensuring that the buyers we bring to you are motivated and ready to proceed.
 
 Please schedule a call with me if you’d like to learn more. I look forward to hearing from you!
